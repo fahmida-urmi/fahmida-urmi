@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning Frontend, Backend, Full-Stack
 
-💬 Ask me about HTML, CSS, JavaScript, Bootstrap, Tailwind
+💬 Ask me about HTML, CSS,, Bootstrap, Tailwind, JavaScript, Python
 
 
 - 📫 How to reach me **fahmidarahmn@gmail.com**
