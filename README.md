@@ -20,6 +20,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahmida-urmi&label=Profile%20views&color=0e75b6&style=flat" alt="fahmida-urmi" /> </p>
 
+🌱 I’m currently learning Frontend, Backend, Full-Stack
+
+💬 Ask me about HTML, CSS, JavaScript, Bootstrap, Tailwind
+
+
 - 📫 How to reach me **fahmidarahmn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
